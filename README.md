@@ -9,7 +9,7 @@ In this section, you'll investigate the Bayesian statistical framework. Bayesian
 
 You will be able to:
 
- * Discuss the concept of Bayesian statistics
+- Discuss the concept of Bayesian statistics
  
 ## Thomas Bayes
  
