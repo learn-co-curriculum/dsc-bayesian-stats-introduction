@@ -3,13 +3,13 @@
 
 ## Introduction
 
-In this section, you'll investigate the Bayesian statistical framework. Bayesian statistics are an alternative perspective to classical Frequentist approaches which you've seen thus far. Bayesian statistics applies reasoning to unknown probabilities in a manner which the frequentist approach does not allow. 
+In this section, you'll investigate the Bayesian statistical framework. Bayesian statistics are an alternative perspective to classical Frequentist approaches which you've seen thus far. Bayesian statistics applies reasoning to unknown probabilities in a manner in which the frequentist approach does not allow. 
 
 ## Objectives
 
 You will be able to:
 
-- Discuss the concept of Bayesian statistics
+ * Discuss the concept of Bayesian statistics
  
 ## Thomas Bayes
  
@@ -31,8 +31,13 @@ The second interpretation of Bayes theorem leads straight into the Bayesian stat
 
 ## Naive Bayes
 
-After setting the ground for Bayesian statistics with plenty of theory and practice of Bayes' theorem itself, you'll take a look at using Bayes' theorem to perform some classification tasks. Here, you'll see that Bayes' theorem can be applied to multiple variables simultaneously. While multinomial bayes has assumptions such as linear independence, which may not be met, (hence its naivety) it can nonetheless provide strong results in scenarios with clean and well normalized datasets.
+After setting the ground for Bayesian statistics with plenty of theory and practice of Bayes' theorem itself, you'll take a look at using Bayes' theorem to perform some classification tasks. Here, you'll see that Bayes' theorem can be applied to multiple variables simultaneously. While multinomial Bayes has assumptions such as linear independence, which may not be met, (hence its naivety) it can nonetheless provide strong results in scenarios with clean and well normalized datasets.
 
 ## Summary
 
 Get ready to jump in! This section provides an exciting introduction to Bayes theorem and Bayesian statistics, further rounding out your statistical toolbox!
+
+
+```
+
+```
