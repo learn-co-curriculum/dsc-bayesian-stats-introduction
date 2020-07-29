@@ -16,3 +16,7 @@
   :course_id: 153
   :canvas_url: https://learning.flatironschool.com/courses/153/pages/bayesian-statistics-introduction-3
   :type: page
+- :id: 13997
+  :course_id: 343
+  :canvas_url: https://learning.flatironschool.com/courses/343/pages/bayesian-statistics-introduction
+  :type: page
