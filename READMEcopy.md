@@ -14,11 +14,11 @@ Bayesian statistics owes its name to the famous mathematician Thomas Bayes. Born
 
 Bayes' theorem is a method for rewriting conditional probabilities. The formula is:
 
-### $$ P(A|B) = \dfrac{P(B|A)P(A)}{P(B)}$$
+### <img src="https://render.githubusercontent.com/render/math?math=P(A|B) =\dfrac{P(B|A)P(A)}{P(B)}">
 
 In the following lessons, you'll learn more about two traditional interpretations of this formula. The first provides an intuitive understanding, viewing the numerator as the probability of both A and B occuring:  
 
-### $$ P(A|B) = \dfrac{P(A \cap B)}{P(B)}$$
+### <img src="https://render.githubusercontent.com/render/math?math=P(A|B) =\dfrac{P(A \cap B)}{P(B)}">
 
 This should make perfect sense: the probability that A is true, given B is true, is the probability that A and B are both true, divided by the probability that B was true in the first place. 
 
